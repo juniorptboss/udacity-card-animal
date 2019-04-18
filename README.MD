@@ -1,10 +1,10 @@
-# Projeto Card informativo de Wolf
+# Projeto Card Wolf
 
 ## O que é
-É um simples card de animal, lobo.
+É um simples card informativo de animal, lobo.
 
 ## Objetivo
-O card informativo, tras algumas especificações do animal.
+Informar algumas especificações do animal.
 
 ## Como construi o card
 * Utilizei HTML e CSS básicos para estruturar o formato e tamanho do card;
